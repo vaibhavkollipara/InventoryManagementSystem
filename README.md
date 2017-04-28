@@ -1,5 +1,5 @@
 # InventoryManagementSystem
-Inventory Management System for tracking within physical, single site warehouses(Project to demonstrate multi-threading in java).
+Inventory Management System for tracking within physical, single site warehouse(Project to demonstrate multi-threading in java).
 
 <h3>Description</h3>
 IMS will be responsible for the inventory tracking within physical, single site warehouses. IMS will track the named physical location of a product within the warehouse and the inventory level of each product. IMS will be deployed to busy warehouses supporting many pickers and restockers working with individual terminals and clients. Updates to inventory levels will be handled in real time to prevent pickers trying to pick a product that is out of stock.
@@ -16,6 +16,7 @@ IMS will be responsible for the inventory tracking within physical, single site 
   <li>Operating System : Windows 10</li>
   <li>Programming Language : Java</li>
   <li>IDE : Eclipse</li>
+  <li>Libraries : Java Collections</li>
 </ul>
 
 <h4>Sample Output</h4>
