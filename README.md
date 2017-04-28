@@ -13,7 +13,7 @@ IMS will be responsible for the inventory tracking within physical, single site 
 
 <h4>Project Developement Environment Details</h4>
 <ul>
-  <li>Operaitng System : Windows 10</li>
+  <li>Operating System : Windows 10</li>
   <li>Programming Language : Java</li>
   <li>IDE : Eclipse</li>
 </ul>
