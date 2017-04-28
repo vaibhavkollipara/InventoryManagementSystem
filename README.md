@@ -19,7 +19,7 @@ IMS will be responsible for the inventory tracking within physical, single site 
 </ul>
 
 <h4>Sample Output</h4>
-<p>
+*
 Terminal 5 pick(B,1) :
 Failed: Products with productId B are out of Stock
 
@@ -94,4 +94,4 @@ LocationC has 5 products with productId C
 
 Terminal 1 restock(A,2) :
 LocationA has 11 products with productId A
-</p>
+*
